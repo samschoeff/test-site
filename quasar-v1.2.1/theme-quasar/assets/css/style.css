@@ -235,6 +235,7 @@ section {
 	background-size:cover !Important;
 }
  	 footer {
+ 	 	animated fadeInUpBig;
 		background-color:#4ba2dc;
 		width:50%;
 		min-width:50%;
@@ -935,7 +936,7 @@ input,button,select,textarea {
 .buttonyellow {
 	background:#daa520;
 	line-height:40px;
-	padding:8px 20px;
+	padding:8px 0px;
 	border-radius:0;
 	display:inline-block;
 	color:#fff;
@@ -951,7 +952,7 @@ input,button,select,textarea {
 	line-height:40px;
 	background:#4ba2dc;
 	color:#fff;
-	padding:8px 20px;
+	padding:8px 0px;
 	margin-left:5px;
 	border-radius:0;
 	display:inline-block;
